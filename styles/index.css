@@ -1,0 +1,20 @@
+h1{
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+img{
+    height:250px;
+    width:300px;
+}
+a{
+    color:brown;
+    
+}
+h3{
+    color: blueviolet;
+}
+*{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
